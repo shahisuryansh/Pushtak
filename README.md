@@ -8,10 +8,8 @@
 ## **How to install and run locally ?**
 
 ```
-$ git clone https://github.com/rutvikpumak/pustaka.git
-$ cd pustaka
-$ npm install
-$ npm start
+
+
 ```
 ## **Features -**
 
