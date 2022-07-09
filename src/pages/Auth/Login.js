@@ -31,8 +31,8 @@ export function Login() {
   function loginHandler() {
     setLoginForm((form) => ({
       ...form,
-      email: "rutvikumak@gmail.com",
-      password: "rutvik123",
+      email: "shahisuryansh28@gmail.com",
+      password: "suryansh123",
     }));
   }
 
